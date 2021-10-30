@@ -1,0 +1,1 @@
+document.write("Connecting JS file with html file using externally")
